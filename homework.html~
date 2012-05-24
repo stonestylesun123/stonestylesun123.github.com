@@ -78,6 +78,7 @@ import sys
 import os
 import string
 import subprocess
+from split import split
 
 errors = []
 details = []
